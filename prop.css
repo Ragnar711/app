@@ -45,6 +45,12 @@ body {
     }
 }
 
+@media screen and (max-width: 1919px) {
+    body {
+        display: none;
+    }
+}
+
 #container {
     text-align: center;
     height: 100%;

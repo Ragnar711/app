@@ -23,6 +23,12 @@ body {
     margin: 0;
 }
 
+@media screen and (max-width: 1919px) {
+    body {
+        display: none;
+    }
+}
+
 @-webkit-keyframes slidein {
     from {
         background-position: top;
